@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Section. Lesson1/lesson1/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson1/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson2/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson3/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson4/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson4/task2" />
+            <option value="$PROJECT_DIR$/section2/lesson5/task1" />
+            <option value="$PROJECT_DIR$/section2/lesson6/task1" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
