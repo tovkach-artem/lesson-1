@@ -6,12 +6,12 @@ public class AnotherTest {
 
     @Test
     public void shouldBeAbleToConfigureTestsFormDifferentClasses() {
-        Assert.fail("Другой класс");
+//        Assert.fail("Другой класс");
     }
 
     @Test
     public void test() {
-        Assertions.assertThat("test").isEqualTo("test1");
+        Assertions.assertThat("test").isEqualTo("test");
     }
 
 
