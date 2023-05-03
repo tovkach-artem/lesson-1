@@ -7,4 +7,9 @@ public class Tests {
     // put your test here
     Assert.fail("Tests not implemented for the task");
   }
+
+  @Test
+  public void initStudent() {
+    System.out.println("wsjfoejwofew");
+  }
 }
