@@ -5,11 +5,6 @@ public class Tests {
   @Test
   public void testSolution() {
     // put your test here
-    Assert.fail("fnwehkgfieew");
-  }
-
-  @Test
-  public void initStudent() {
-    System.out.println("wsjfoejwofew");
+//    Assert.fail("Tests not implemented for the task");
   }
 }
